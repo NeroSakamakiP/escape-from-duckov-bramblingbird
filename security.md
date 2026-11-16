@@ -194,7 +194,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Escape from Duckov · Updated 2026-11-15 · Shared under the MIT License*
+*Escape from Duckov · Updated 2026-11-16 · Shared under the MIT License*
 
 
-Updated 2026-11-15.
+Updated 2026-11-16.
